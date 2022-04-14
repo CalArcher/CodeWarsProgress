@@ -1,4 +1,4 @@
-# TITMultiples of 3 or 5
+# Multiples of 3 or 5
 
 Created:  2022-04-14
 
